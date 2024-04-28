@@ -181,8 +181,39 @@ main section{
     margin-top: 50px;
 }
 footer{
+    gap: 100px;
     display: flex;
     background: #FFF8F3;
     padding: 130px 200px;
     margin-top: 100px;
+}
+.footer-colmun{
+    width: 50%;
+}
+.footer-colmun-description{
+    margin-bottom: 30px;
+    color: #474747;
+    font-size: 16px;
+    font-weight: 400;
+}
+.social-link a {
+    margin-right: 24px;
+    margin-top: 0px;
+}
+.footer-colmun-tile{
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.contact input[type="text"], .contact input[type="email"],
+textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 30px;
+    color: #757575;
+    border-radius: 5px;
+    background:#FFF;
+    border: 0;
+    width: 100%;
 }
