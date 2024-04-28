@@ -57,7 +57,8 @@ nav a{
     max-width: 500px;
 }
 .profile-pic{
-    width: 500px;
+    width: 406px;
+    height: 520px;
 }
 .banner-greeting{
 color: #474747;
@@ -115,9 +116,8 @@ main section{
     font-weight: 400;
 }
 .info-description{
-    color: var(--Dark-02, #474747);
+    color: #474747;
     font-weight: 700;
-    font-size: 20px;
 }
 /*what i do section*/
 #what-i-do-description{
