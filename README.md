@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3emran" alt="3emran" /></a> </p>
 
-- 🔭 I’m currently working on [portfolio-project](https://github.com/3Emran/portfolio-project/tree/main)
+- 🔭 I’m currently working on [portfolio-project]([https://github.com/3Emran/portfolio-project/tree/main](https://3emran.github.io/web-developer-portfolio/))
 
 - 🌱 I’m currently learning **JavaScript, Node.js, Vue.js**
 
-- 👯 I’m looking to collaborate on [portfolio-project](https://github.com/3Emran/portfolio-project/tree/main)
+- 👯 I’m looking to collaborate on [portfolio-project]([https://github.com/3Emran/portfolio-project/tree/main](https://3emran.github.io/web-developer-portfolio/))
 
 - 💬 Ask me about **Web Development**
 
